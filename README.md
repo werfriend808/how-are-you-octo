@@ -1,3 +1,3 @@
 # how-are-you-octo
 
-<how-are-you-octo.netlify.app>
+[Click here](how-are-you-octo.netlify.app)
